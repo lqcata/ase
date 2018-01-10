@@ -10,7 +10,7 @@ class EquationOfState:
 
     The following equation is used::
 
-                          2      3        -1/3
+                          2      3        -2/3
       E(V) = c + c t + c t  + c t ,  t = V
               0   1     2      3
 
